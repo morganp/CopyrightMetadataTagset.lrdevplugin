@@ -1,5 +1,5 @@
 return {
-  title = LOC "$$$/SampleTagset/Title=Copyright View",
+  title = LOC "$$$/SampleTagset/Title=Copyright",
   id = 'CopyrightTagset',
   items = {
     'com.adobe.copyrightState',
